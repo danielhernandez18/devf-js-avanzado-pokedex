@@ -62,7 +62,7 @@ aprueba y mezcla los cambios.
 
 Página web desplegada: [Pokédex][pokedex]
 
-[pokedex]: https://danielhernandez18.github.io/devf-js-avanzado-pokedex/
+[pokedex]: https://danielhernandez18.github.io/devf-js-avanzado-pokedex/src/
 
 <img src="https://github.com/danielhernandez18/devf-js-avanzado-pokedex/blob/main/assets/index.png">
 
